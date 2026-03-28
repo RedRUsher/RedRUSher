@@ -7,7 +7,7 @@
 <p style="font-size: 23px;" align="left">Yeah. Maybe I know what you want so here it is.</p>
 
 ## Who I am 🌐
-<p style="margin-left: 20px; font-size: 15px;">For sure I can say I'm an unknown king whose kingdom has been stolen and know I'm just a god-knows-who person trying to find my own path, although I'm not gonna say it. <br>
+<p style="margin-left: 20px; font-size: 15px;">For sure I can say I'm an unknown king whose kingdom has been stolen and now I'm just a god-knows-who person trying to find my own path, although I'm not gonna say it. <br>
 Well, my real name is Rafael and I'm a Brazilian student currently enrolled in <strong><a href="https://www.cps.sp.gov.br/etec/">Etec</a></strong>. I've had a great experience with IT courses so far and I think we can actually help the world and its people improve by writing some lines of code.</p>
 
 <div align="right">
