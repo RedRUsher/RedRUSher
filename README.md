@@ -1,10 +1,10 @@
 <!--What a curiosity of yours. Sneaking at my code? I can see you hihihi-->
 <div>
   <img src="assets/nyan-cat.gif" height="70" align="left">
-  <h1 align="left">Be welcome, dear Guest.</h1>
+  <h1 align="right">Be welcome, dear Guest.</h1>
 </div>
 
-<p style="font-size: 23px;" align="left">Yeah. Maybe I know what you want so here it is.</p>
+<p style="font-size: 23px;" align="right">Yeah. Maybe I know what you want so here it is.</p>
 
 ## Who I am 🌐
 <p style="margin-left: 20px; font-size: 15px;">For sure I can say I'm an unknown king whose kingdom has been stolen and now I'm just a god-knows-who person trying to find my own path, although I'm not gonna say it. <br>
